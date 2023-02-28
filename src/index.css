@@ -1,0 +1,17 @@
+table {
+  border-collapse: collapse;
+  background: #FFFFF0;
+  padding: "1rem";
+  background-color: greenyellow;
+  margin-left: 1rem;
+  margin: 1rem;
+}
+
+th {
+  border: 1px solid black;
+}
+
+
+td {
+  border: 1px solid black;
+}
